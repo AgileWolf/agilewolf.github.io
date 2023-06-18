@@ -1,4 +1,6 @@
  body { text-align: center;
        background-color: #494d5f; }
-h2 { color: #e5eaf5; }
-p { color: #e5eaf5; }
+h2 { font-family: "American Typewriter";
+    color: #e5eaf5; }
+p { font-family: "American Typewriter";
+ color: #e5eaf5; }
