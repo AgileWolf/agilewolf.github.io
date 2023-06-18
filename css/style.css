@@ -8,3 +8,7 @@ h6 {  display: flex;
    align-items: flex-end;
     font-family: "American Typewriter";
     color: #e5eaf5; }
+button {  display: flex;  
+   align-items: flex-end;
+    font-family: "American Typewriter";
+    color: #e5eaf5; }
