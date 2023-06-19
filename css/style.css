@@ -14,3 +14,7 @@ button {  display: flex;
     color: #e5eaf5; }
 .h2 { font-family: "American Typewriter";
     color: Crimson; }
+.conteiner img{
+display:block;
+margin:auto;
+}
