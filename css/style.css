@@ -12,6 +12,10 @@ button {  margin: 0 auto;
     color: #e5eaf5; }
 .h2 { font-family: "American Typewriter";
     color: OliveDrab; }
+.h2+ { font-family: "American Typewriter";
+    color: Gold; }
+
+
 .pic { 
  display:block;
 margin:auto;}
