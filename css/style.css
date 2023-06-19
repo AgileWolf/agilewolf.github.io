@@ -13,8 +13,7 @@ button {  display: flex;
     font-family: "American Typewriter";
     color: #e5eaf5; }
 .h2 { font-family: "American Typewriter";
-    color: Crimson; }
-.conteiner img{
-display:block;
-margin:auto;
-}
+    color: Tomato; }
+.pic { width="600" height="800"
+ display:block;
+margin:auto;}
