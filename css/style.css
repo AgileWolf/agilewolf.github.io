@@ -14,6 +14,6 @@ button {  display: flex;
     color: #e5eaf5; }
 .h2 { font-family: "American Typewriter";
     color: Tomato; }
-.pic { width="600" height="800"
+.pic { 
  display:block;
 margin:auto;}
